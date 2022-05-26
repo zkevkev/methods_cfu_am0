@@ -6,7 +6,7 @@
 #  call upcase on the variable, print it out
 #  call downcase on the variable, print it out
 #  call reverse on the variable, print it out
-#  call lenght on the variable, print it out
+#  call length on the variable, print it out
 
 
 
