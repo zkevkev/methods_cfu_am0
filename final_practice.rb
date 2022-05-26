@@ -28,7 +28,7 @@
 
 
 
-#4: Write a method named full name that takes in 3 strings, a first, middle, and last name, and print outs the sentence of the entire string
+#4: Write a method named greet_person that takes in 3 strings, a first, middle, and last name, and print outs the sentence of the entire string
 
 
 
