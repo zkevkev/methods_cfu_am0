@@ -4,13 +4,12 @@
 
 - Fork this repository
 - Clone your copy of it to your local machine
-- Open in Atom
+- Open in VS Code
 
 ## Directions
 
 Read the directions and complete all activities in each file, in this order:
-- `define_and_id.rb.rb`
-- `methods_variables.rb`
+- `built_in_methods.rb`
 - `final_practice.rb`
 - `self-evaluation.md`
 
