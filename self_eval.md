@@ -1,4 +1,4 @@
 # Self-Evaluation
 
-- Reflect on your learning and work today. What are you most proud of?
-- What is the power of using methods in our applications?
+- Reflect on your learning and work today. What are you most proud of? I feel like I have a pretty solid understanding of methods thus far and combined with solidifying my understanding of conditionals I'm stating to get really excited about becoming a programmer, which makes me super proud. 
+- What is the power of using methods in our applications? Using methods, whether premade or custom, allows for large code blocks to be called on datasets without having to copy paste code or recode a problem multiple times. This makes for cleaner code and a robust toolset of methods that can be called to manipulate datasets. 
